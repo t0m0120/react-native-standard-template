@@ -38,3 +38,11 @@ pod install --repo-update
 cd ..
 npx react-native run-ios
 ```
+
+## Rename Project
+
+use [react-native-rename](https://www.npmjs.com/package/react-native-rename)
+
+```bash
+$ npx react-native-rename hogehoge
+```
